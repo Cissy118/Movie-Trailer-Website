@@ -1,7 +1,5 @@
 Movie Trailer Website
 ---------------------
-What is it?
------------
 The Movie Trailer Website is providing some movies' trailers to view.
 
 How to use?
