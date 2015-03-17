@@ -1,5 +1,5 @@
 import media
-import fresh_tomatoes
+import movie_trailer_homepage
 
 # Create instances of Movie class
 let_the_bullets_fly = media.Movie("Let the Bullets Fly",
@@ -31,4 +31,4 @@ litte_nicholas = media.Movie("Little Nicholas",
 movies = [let_the_bullets_fly, before_sunrise,litte_nicholas, v_for_vendetta, lock_stock_barrels, midnight_in_paris]
 
 # Open the page in the browser
-fresh_tomatoes.open_movies_page(movies)
+movie_trailer_homepage.open_movies_page(movies)
